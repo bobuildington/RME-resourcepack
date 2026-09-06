@@ -1,4 +1,4 @@
-# RunMineEscape Resource Pack
+# RunMineEscape Resource Pack — 0.42.0
 
 This repository provides the public Minecraft resource pack required by the RunMineEscape Paper server.
 
@@ -6,6 +6,10 @@ This repository provides the public Minecraft resource pack required by the RunM
 
 `https://raw.githubusercontent.com/bobuildington/RME-resourcepack/main/RunMineEscape-26.2.zip`
 
-Current SHA-1: `57c5196d4d77592de6c08c79d53b301b680ac3fb`
+Current SHA-1: `b329c49d2264772d4e18e457031fe904744ca9c2`
+
+Minecraft 26.2, resource-pack format 88. Includes the Forge, custom RME ore and tree-trunk models, depleted ore, and matching resource item-model definitions. No Fabric mod is required. Servers send this pack automatically when configured with its HTTPS download URL and SHA-1.
+
+The pack is released alongside the matching private RunMineEscape project. Only client pack assets and this README are published here; server source, generation datapacks, configuration, worlds and profiles remain private. Server deployments should pin the raw URL to the tested commit (replace `main` in the URL with that commit ID) and use the matching hash to avoid stale-cache mismatches.
 
 When the pack changes, rebuild it from the private RunMineEscape project, replace `RunMineEscape-26.2.zip` here, commit and push the update, then set the server's `resource-pack-sha1` to the new SHA-1.
