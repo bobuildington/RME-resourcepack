@@ -1,4 +1,4 @@
-# RunMineEscape Resource Pack — 0.42.0
+# RunMineEscape Resource Pack — 0.43.0
 
 This repository provides the public Minecraft resource pack required by the RunMineEscape Paper server.
 
@@ -6,7 +6,7 @@ This repository provides the public Minecraft resource pack required by the RunM
 
 `https://raw.githubusercontent.com/bobuildington/RME-resourcepack/main/RunMineEscape-26.2.zip`
 
-Current SHA-1: `b329c49d2264772d4e18e457031fe904744ca9c2`
+Current SHA-1: `36306b6dd21256a3b91fc0be76bf04ad29c42313`
 
 Minecraft 26.2, resource-pack format 88. Includes the Forge, custom RME ore and tree-trunk models, depleted ore, and matching resource item-model definitions. No Fabric mod is required. Servers send this pack automatically when configured with its HTTPS download URL and SHA-1.
 
